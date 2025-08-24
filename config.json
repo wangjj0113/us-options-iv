@@ -1,0 +1,10 @@
+{
+    "tickers": [
+        "AAPL",
+        "TSLA",
+        "NVDA",
+        "GOOGL",
+        "AMZN"
+    ],
+    "sheet_id": "YOUR_SHEET_ID_HERE"
+}
